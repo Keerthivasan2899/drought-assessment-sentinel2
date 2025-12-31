@@ -9,10 +9,10 @@ The analysis focuses on vegetation health as an indicator of agricultural drough
 ## 📊 Key Outputs
 
 ### NDVI Map
-![NDVI Map](outputs/ndvi_map_trichy.png)
+![NDVI Map](Exports/NDVI_Sentinel2_Trichy_2025.png)
 
 ### Drought Severity Classification
-![Drought Severity Map](outputs/drought_severity_map_trichy.png)
+![Drought Severity Map](Exports/Drought_Severity_Trichy_sentinel2_2025.png)
 
 ## Study Area
 Tiruchirappalli District, Tamil Nadu, India.
