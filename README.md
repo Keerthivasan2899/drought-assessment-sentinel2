@@ -46,3 +46,12 @@ Tiruchirappalli District, Tamil Nadu, India.
 ## 2025 Update
 This project is an updated implementation of a Master's thesis on drought assessment.
 Key workflows were re-executed in QGIS to ensure reproducibility and alignment with current GIS industry practices.
+
+## 🎯 Skills Demonstrated
+
+- Satellite-based drought assessment using Sentinel-2 imagery
+- NDVI calculation and vegetation health analysis
+- Raster preprocessing, masking, and reclassification
+- Environmental analysis using remote sensing techniques
+- Cartographic map production in QGIS
+- Project documentation and presentation using GitHub
