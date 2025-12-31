@@ -32,6 +32,13 @@ Tiruchirappalli District, Tamil Nadu, India.
 - NDVI vegetation health map
 - Drought severity classification map
 
+## 📈 Results & Interpretation
+
+- NDVI values derived from Sentinel-2 imagery effectively captured vegetation health variations across the study area.
+- Areas with low NDVI values indicate stressed or sparse vegetation, which correlates with drought-affected regions.
+- The drought severity classification map highlights zones of moderate to severe vegetation stress, particularly in agricultural and fallow land areas.
+- Spatial patterns observed in the results are consistent with known dry-season conditions in the Tiruchirappalli region.
+
 ## Tools
 - QGIS (Long Term Release)
 - Satellite Remote Sensing (Sentinel-2)
