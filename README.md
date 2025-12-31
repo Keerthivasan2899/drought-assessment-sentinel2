@@ -4,6 +4,15 @@
 This project presents a satellite-based drought assessment for Tiruchirappalli District, Tamil Nadu, using Sentinel-2 surface reflectance imagery and QGIS.
 
 The analysis focuses on vegetation health as an indicator of agricultural drought conditions.
+---
+
+## 📊 Key Outputs
+
+### NDVI Map
+![NDVI Map](outputs/ndvi_map_trichy.png)
+
+### Drought Severity Classification
+![Drought Severity Map](outputs/drought_severity_map_trichy.png)
 
 ## Study Area
 Tiruchirappalli District, Tamil Nadu, India.
