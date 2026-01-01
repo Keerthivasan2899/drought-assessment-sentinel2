@@ -37,8 +37,12 @@ NDVI values were reclassified into drought severity categories based on vegetati
 This simplified classification is suitable for regional-scale agricultural monitoring.
 
 ## Outputs
-- NDVI vegetation health map
-- Drought severity classification map
+### NDVI Map
+![NDVI Map](maps/NDVI_Sentinel2_Trichy_2025.png)
+
+### Drought Severity Map
+![Drought Severity Map](maps/Drought_Severity_Trichy_sentinel2_2025.png)
+
 
 ## 📈 Results & Interpretation
 
