@@ -25,7 +25,7 @@ Tiruchirappalli District, Tamil Nadu, India.
 
 ## Methodology
 - Sentinel-2 imagery was clipped to the study area boundary.
-- NDVI was calculated using Red and NIR bands.
+- NDVI was selected as the primary indicator to represent vegetation health and infer agricultural drought conditions.
 - NDVI values were reclassified into drought severity categories.
 - Non-vegetated areas were masked to avoid misinterpretation.
 - Final thematic maps were produced using QGIS (Long Term Release).
