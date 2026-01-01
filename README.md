@@ -8,14 +8,6 @@ This project presents a satellite-based drought assessment for Tiruchirappalli D
 The analysis focuses on vegetation health as an indicator of agricultural drought conditions.
 ---
 
-## 📊 Key Outputs
-
-### NDVI Map
-![NDVI Map](Exports/NDVI_Sentinel2_Trichy_2025.png)
-
-### Drought Severity Classification
-![Drought Severity Map](Exports/Drought_Severity_Trichy_sentinel2_2025.png)
-
 ## Study Area
 Tiruchirappalli District, Tamil Nadu, India.
 
