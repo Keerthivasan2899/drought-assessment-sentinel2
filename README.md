@@ -29,6 +29,12 @@ Tiruchirappalli District, Tamil Nadu, India.
 - NDVI values were reclassified into drought severity categories.
 - Non-vegetated areas were masked to avoid misinterpretation.
 - Final thematic maps were produced using QGIS (Long Term Release).
+### Drought Severity Logic
+NDVI values were reclassified into drought severity categories based on vegetation condition:
+- Low NDVI values indicate stressed or sparse vegetation (severe drought)
+- High NDVI values indicate healthy vegetation (no drought)
+
+This simplified classification is suitable for regional-scale agricultural monitoring.
 
 ## Outputs
 - NDVI vegetation health map
