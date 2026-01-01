@@ -1,4 +1,6 @@
 # Drought Assessment using Sentinel-2 and QGIS
+Satellite-based analysis to identify vegetation stress and drought severity for agricultural monitoring using Sentinel-2 imagery.
+
 
 ## Overview
 This project presents a satellite-based drought assessment for Tiruchirappalli District, Tamil Nadu, using Sentinel-2 surface reflectance imagery and QGIS.
